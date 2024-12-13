@@ -11,7 +11,7 @@ Controls include:
 2 Fingers: Presses the left arrow key.
 3 Fingers: Presses the up arrow key.
 4 Fingers: Presses the down arrow key.
-5 Fingers: Presses the spacebar.
+5 Fingers: Presses the spacebar. 
 
 
 Requirements
