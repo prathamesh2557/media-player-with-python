@@ -14,7 +14,7 @@ Controls include:
 5 Fingers: Presses the spacebar. 
 
 
-Requirements
+Requirements  
 
 Python 3.7+
 OpenCV
