@@ -13,7 +13,7 @@ Controls include:
 4 Fingers: Presses the down arrow key.
 5 Fingers: Presses the spacebar. 
 
-
+  
 Requirements  
 
 Python 3.7+
