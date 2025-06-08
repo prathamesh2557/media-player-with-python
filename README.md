@@ -3,7 +3,7 @@ Gesture-Based Keyboard Control with OpenCV and MediaPipe
 This project uses a webcam and MediaPipe to detect hand gestures and maps them to keyboard inputs. It enables gesture-based control for actions like navigating or interacting with a computer.
 
 Features
-
+ 
 Detects hand gestures using a webcam.
 Maps specific gestures (number of fingers shown) to keyboard inputs.
 Controls include:
