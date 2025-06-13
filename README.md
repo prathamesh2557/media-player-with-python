@@ -8,7 +8,7 @@ Detects hand gestures using a webcam.
 Maps specific gestures (number of fingers shown) to keyboard inputs.
 Controls include:
 1 Finger: Presses the right arrow key.
-2 Fingers: Presses the left arrow key. 
+2 Fingers: Presses the left arrow key.  
 3 Fingers: Presses the up arrow key.  
 4 Fingers: Presses the down arrow key.
 5 Fingers: Presses the spacebar. 
